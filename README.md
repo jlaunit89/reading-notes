@@ -15,6 +15,12 @@ Interesting read I found on [Brain Pickings](https://www.brainpickings.org/2014/
 ![image](https://www.nexus-education.com/wp-content/uploads/2019/06/continuum.png)
 
 
-Questions? Contact [Jack](jack.launit@gmail.com)
+**Reflections**
 
 Module One [Reflect](https://github.com/jlaunit89/reading-notes/blob/main/Reflect.md)
+
+
+
+
+
+Questions? Contact [Jack](jack.launit@gmail.com)
