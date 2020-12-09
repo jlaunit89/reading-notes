@@ -16,3 +16,5 @@ Interesting read I found on [Brain Pickings](https://www.brainpickings.org/2014/
 
 
 Questions? Contact [Jack](jack.launit@gmail.com)
+
+Module One [Reflect](https://github.com/jlaunit89/reading-notes/blob/main/Reflect.md)
