@@ -1,37 +1,18 @@
-## Welcome to Jack's Reading Notes for Code 102
+# Welcome to Jack's Reading Notes for Code 102
 
-You can use the [editor on GitHub](https://github.com/jlaunit89/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**Growth Mindset:**
+The _Growth Mindset_ is a critical element of continuous improvement. If you have a closed mind, you wouldn't have the need to find solutions that move you
+forward. Having an open mind ensures that you are agile and always looking for ways to improve.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**3 Reminders to Keep Myself in a Growth Mentality:**
+1. I can't move forward if I don't want to.
+2. Constructive criticism is essential to growth.
+3. Use mistakes, mine and others', to learn and grow.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Interesting read I found on [Brain Pickings](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
 
-```markdown
-Syntax highlighted code block
+![image](https://www.nexus-education.com/wp-content/uploads/2019/06/continuum.png)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jlaunit89/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Questions? Contact [Jack](jack.launit@gmail.com)
