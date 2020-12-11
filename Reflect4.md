@@ -5,20 +5,20 @@ components of your website should be header, main (body), and footer.
 
 **HTML (Hypertext Markup Language)**
 
-HTML is a coding language used to give structure to you website. Below are some widely used elements in html.
-<article>
-<aside>
-<details>
-<figcaption>
-<figure>
-<footer>
-<header>
-<main>
-<mark>
-<nav>
-<section>
-<summary>
-<time>
+HTML is a coding language used to give structure to you website. Below are some widely used elements in html. They should always be inside <>
+article
+aside
+details
+figcaption
+figure
+footer
+header
+main
+mark
+nav
+section
+summary
+time
 
 
 **Creating Repository**
