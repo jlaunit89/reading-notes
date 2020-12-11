@@ -5,17 +5,21 @@ components of your website should be header, main (body), and footer.
 
 **HTML (Hypertext Markup Language)**
 
-HTML is a coding language used to give structure to you website. Below is an example of a complete html code. 
-<!DOCTYPE html>
-<html>
-<title>HTML Tutorial</title>
-<body>
+HTML is a coding language used to give structure to you website. Below are some widely used elements in html.
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
 
 **Creating Repository**
 You have to create a new repository on github but instead of the files being .md, they would be .html.
