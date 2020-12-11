@@ -24,4 +24,4 @@ You have to create a new repository on github but instead of the files being .md
 **Deploying**
 
 To deploy your website after you've typed your html on VS Code, you can either push it back up to github where you created your repository, or do a live-server command
-on the terminal like live-server index.html.
+on the terminal like live-server index.html..
