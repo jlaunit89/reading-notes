@@ -24,3 +24,7 @@
 - If you use float attribute, you need to use clear fix.
 - Ctrl+back slash highlights CSS.
 - // kebab or pascal or snake?
+- Starts with var tag and a variable value (name).
+- If a function comes out as "referenced undefined", check spelling.
+- Always use triple equal for "if" arguments. You can use chain multiple true responses into the same "if" argument.
+- Don't worry about windlow unload for this lab. One dynamic componen based on user input and one conditional statement; need a total of three.
