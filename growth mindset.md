@@ -15,4 +15,4 @@ Interesting read I found on [Brain Pickings](https://www.brainpickings.org/2014/
 
 
 
-Questions? Contact [Jack](jack.launit@gmail.com)
+Questions? Contact [Jack](email:jack.launit@gmail.com)
