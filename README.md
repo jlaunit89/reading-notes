@@ -1,4 +1,4 @@
-# Welcome to Jack's Reading Notes for Code 102
+# Code 102 Reading Notes
 
 Table of content:
 
@@ -12,3 +12,6 @@ Table of content:
 8. [Module 7 Reflection](https://jlaunit89.github.io/reading-notes/Reflect7)
 9. [Module 8 Reflection](https://jlaunit89.github.io/reading-notes/Reflect8)
 10. [Module 9 Reflection](https://jlaunit89.github.io/reading-notes/Reflect9)
+
+
+# Code 201 Reading Notes
