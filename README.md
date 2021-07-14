@@ -15,4 +15,4 @@ Table of content:
 
 
 # Code 201 Reading Notes
-[Class 02 Notes](hppts://jlaunit89.github.io/reading-notes/Class02)
+[Class 02 Notes](https://jlaunit89.github.io/reading-notes/Class02)
